@@ -220,6 +220,21 @@ This project demonstrates experience across more than implementation alone:
 - Testing API and database behavior
 - Connecting requirements, implementation, and validation
 
+
+
+## Verified Technical Evidence
+
+The original graduation project was developed collaboratively in the shared `fawterha-project/backend` repository.
+
+One of my merged pull requests is publicly available and provides direct evidence of my backend contribution:
+
+- **PR #9 — Auth, receipts, categories, and initial backend structure**  
+  https://github.com/fawterha-project/backend/pull/9
+
+That contribution includes backend work around JWT authentication middleware, receipt attachment handling, invoice retrieval and ownership checks, receipt-processing flows, and AI-assisted extraction integration.
+
+For a recruiter-friendly summary of what this PR demonstrates, see [TECHNICAL-EVIDENCE.md](TECHNICAL-EVIDENCE.md).
+
 ## Repository Note
 
 The original implementation was developed in a shared team repository.
